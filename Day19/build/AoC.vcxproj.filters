@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Neera\OneDrive\Desktop\Workspace\AdventOfCode2024\Day00\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Neera\OneDrive\Desktop\Workspace\AdventOfCode2024\Day00\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{46E26E06-BFE7-3DBB-9242-61F96FDCCF41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:/Users/Neera/OneDrive/Desktop/Workspace/AdventOfCode2024/Day00/build/CMakeFiles/library.dir
+C:/Users/Neera/OneDrive/Desktop/Workspace/AdventOfCode2024/Day00/build/CMakeFiles/AoC.dir
+C:/Users/Neera/OneDrive/Desktop/Workspace/AdventOfCode2024/Day00/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Neera/OneDrive/Desktop/Workspace/AdventOfCode2024/Day00/build/CMakeFiles/ZERO_CHECK.dir
